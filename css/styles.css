@@ -81,6 +81,7 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
+  padding: 24px 0 24px;
 }
 
 .header-container {
@@ -109,7 +110,7 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-menu-item {
@@ -131,12 +132,14 @@ img {
 
 .header-address {
   font-style: normal;
+  padding: 24px 0 24px;
 }
+
 .header-address-list {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-address-item {
