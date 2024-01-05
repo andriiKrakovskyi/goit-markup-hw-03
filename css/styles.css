@@ -114,7 +114,7 @@ img {
 }
 
 .header-item {
-padding: 24px 0 24px;
+  padding: 24px 0 24px;
 }
 
 /*.header-item-menu {
@@ -147,8 +147,8 @@ padding: 24px 0 24px;
 }
 
 /*.header-item-address {
-  /*padding: 24px 0 24px;*/
-}
+  /*padding: 24px 0 24px;
+}*/
 
 .header-address-link {
   color: #434455;
