@@ -109,10 +109,11 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .header-menu-item {
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-menu-link {
@@ -135,10 +136,11 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .header-address-item {
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-address-link {
