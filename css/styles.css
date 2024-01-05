@@ -81,7 +81,7 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-container {
@@ -113,9 +113,13 @@ img {
   /*padding: 24px 0 24px;*/
 }
 
-.header-menu-item {
-  /*padding: 24px 0 24px;*/
+.header-item {
+padding: 24px 0 24px;
 }
+
+/*.header-item-menu {
+  padding: 24px 0 24px;
+}*/
 
 .header-menu-link {
   color: #2e2f42;
@@ -132,7 +136,7 @@ img {
 
 .header-address {
   font-style: normal;
-  padding: 24px 0 24px;
+  /*padding: 24px 0 24px;*/
 }
 
 .header-address-list {
@@ -142,7 +146,7 @@ img {
   /*padding: 24px 0 24px;*/
 }
 
-.header-address-item {
+/*.header-item-address {
   /*padding: 24px 0 24px;*/
 }
 
