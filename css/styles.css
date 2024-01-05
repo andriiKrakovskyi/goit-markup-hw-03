@@ -113,9 +113,13 @@ img {
   /*padding: 24px 0 24px;*/
 }
 
-.header-item {
+.menu-header-item {
   padding: 24px 0 24px;
 }
+
+/*.header-item {
+  padding: 24px 0 24px;
+}*/
 
 /*.header-item-menu {
   padding: 24px 0 24px;
