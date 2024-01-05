@@ -67,7 +67,6 @@ img {
   border: 0;
   padding: 0;
   white-space: nowrap;
-  clip-path: inset(100%);
   overflow: hidden;
 }
 
@@ -108,20 +107,7 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  /* padding: 24px 0 24px; */
 }
-
-/* .menu-header-item {
-  padding: 24px 0 24px;
-} */
-
-/*.header-item {
-  padding: 24px 0 24px;
-}*/
-
-/*.header-item-menu {
-  padding: 24px 0 24px;
-}*/
 
 .header-menu-link {
   color: #2e2f42;
@@ -139,7 +125,6 @@ img {
 
 .header-address {
   font-style: normal;
-  /*padding: 24px 0 24px;*/
 }
 
 .header-address-list {
@@ -148,10 +133,6 @@ img {
   gap: 40px;
   padding: 24px 0 24px;
 }
-
-/*.header-item-address {
-  /*padding: 24px 0 24px;
-}*/
 
 .header-address-link {
   color: #434455;
